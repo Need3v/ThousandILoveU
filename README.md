@@ -1,5 +1,6 @@
 # 1.000 I Love You
 Sends one thousand "I love you" messages in a chat on whatsapp web
+
 ![example of script working](https://i.imgur.com/TRDHrqb.png)
 ## Usage (pt-br)
 
